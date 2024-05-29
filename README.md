@@ -1,4 +1,19 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💙💙
+
+Meu nome é Davi Vieira Nascimento
+
+-Estou estudando na Alura
+
+-Estou me desenvolvendo na linguagem JavaScript
+
+-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+## Você pode entrar em contato comigo 📫
+
+Dajoca25@gmail.com
+
+![](![Manga](https://media1.tenor.com/m/ilkK3-bmfagAAAAC/luck-voltia.gif)
+
 
 <!--
 **Dajoca2522/Dajoca2522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
